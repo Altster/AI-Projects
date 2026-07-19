@@ -27,7 +27,8 @@ Note: None of the projects are vibe coded. The only use of AI in these repositor
 
 | # | Project | Status | Skills | Tools |
 |---|---------|:--------:|--------|-------|
-| 2.1 | Algorithm wars |🔄 | | |
+| 2.1 | Algorithm wars | ✅ | Decision Trees, RF, SVM, KNN, Naive Bayes | scikit-learn, pandas |
+| 2.2 | Zillow killer | 🔄 |
 
 </details>
 
