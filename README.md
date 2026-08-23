@@ -4,7 +4,8 @@
 
 Note: None of the projects are vibe coded. The only use of AI in these repositories is for writing README files, adding markdown blocks to the code files, and assistance in concept clarification and guidance during develpoment
 
-**Status:** 4 completed  
+**Status:** 4 completed, 2 in-progress
+
 **Legend:** ✅ Done · 🔄 In Progress
 
 ---
@@ -29,6 +30,17 @@ Note: None of the projects are vibe coded. The only use of AI in these repositor
 |---|---------|:--------:|--------|-------|
 | 2.1 | Algorithm wars | ✅ | Decision Trees, RF, SVM, KNN, Naive Bayes | scikit-learn, pandas |
 | 2.2 | Zillow killer | 🔄 |
+
+</details>
+
+
+<details open>
+<summary><strong>Phase 3 — Computer Vision</strong> &nbsp;(0/4 done)</summary>
+<br>
+
+| # | Project | Status | Repo | Tools |
+|---|---------|:--------:|------|-------|
+| 3.1 | Diabetic Retinopathy Classifier | 🔄 | [AI Eye Doctor](https://github.com/Altster/AI-Eye-Doctor.git)
 
 </details>
 
