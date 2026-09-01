@@ -40,8 +40,8 @@ Note: None of the projects are vibe coded. The only use of AI in these repositor
 
 | # | Project | Status | Repo | Tools |
 |---|---------|:--------:|------|-------|
-| 3.1 | Diabetic Retinopathy Classifier | 🔄 | [AI Eye Doctor](https://github.com/Altster/AI-Eye-Doctor.git)
-
+| 3.1 | Diabetic Retinopathy Classifier | ✅ | [AI Eye Doctor](https://github.com/Altster/AI-Eye-Doctor.git) | PyTorch, Albumentations, W&B |
+| 3.2 | Traffic spy | 🔄 |||
 </details>
 
 ---
