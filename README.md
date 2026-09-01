@@ -35,7 +35,7 @@ Note: None of the projects are vibe coded. The only use of AI in these repositor
 
 
 <details open>
-<summary><strong>Phase 3 — Computer Vision</strong> &nbsp;(0/4 done)</summary>
+<summary><strong>Phase 3 — Computer Vision</strong> &nbsp;(1/4 done)</summary>
 <br>
 
 | # | Project | Status | Repo | Tools |
